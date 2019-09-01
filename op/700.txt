@@ -1,0 +1,28 @@
+HILL CLIMBING VARIANT :  steepest-ascent
+==========================================================
+Success percentage 14.714285714285714
+Average number of steps in success 4.116504854368932
+Failure percentage 85.28571428571429
+Average number of steps in failure 3.0351758793969847
+============================================================
+HILL CLIMBING VARIANT :  sideways-move
+==========================================================
+Success percentage 94.71428571428572
+Average number of steps in success 7.705882352941177
+Failure percentage 5.285714285714286
+Average number of steps in failure 16.18918918918919
+============================================================
+HILL CLIMBING VARIANT :  random-restart
+==========================================================
+Success percentage 100.0
+Average number of steps in success 4.112857142857143
+Failure percentage 0.0
+Average number of restarts 6.821548821548822
+============================================================
+HILL CLIMBING VARIANT :  random-restart-sideways
+==========================================================
+Success percentage 100.0
+Average number of steps in success 7.284285714285715
+Failure percentage 0.0
+Average number of restarts 6.5
+============================================================

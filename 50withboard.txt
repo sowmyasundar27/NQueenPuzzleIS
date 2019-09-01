@@ -1,0 +1,78 @@
+HILL CLIMBING VARIANT :  1
+
+
+Initial state:
+- - Q - 
+- - - Q 
+- - Q - 
+- - - Q 
+
+
+Goal state!!! -  0
+- - Q - 
+Q - - - 
+- - - Q 
+- Q - - 
+ 
+
+Number of steps -  3
+--------------------------------
+
+
+Initial state:
+- - - Q 
+- - - Q 
+- Q - - 
+- - - Q 
+
+
+Goal state!!! -  1
+- Q - - 
+- - - Q 
+Q - - - 
+- - Q - 
+ 
+
+Number of steps -  4
+--------------------------------
+
+
+Initial state:
+- - Q - 
+- - - Q 
+Q - - - 
+Q - - - 
+
+
+Goal state!!! -  2
+- Q - - 
+- - - Q 
+Q - - - 
+- - Q - 
+ 
+
+Number of steps -  2
+--------------------------------
+
+
+Initial state:
+- Q - - 
+- - Q - 
+- Q - - 
+- - Q - 
+
+
+Goal state!!! -  3
+- Q - - 
+- - - Q 
+Q - - - 
+- - Q - 
+ 
+
+Number of steps -  2
+--------------------------------
+==========================================================
+Success percentage 100.0
+Average number of steps in success 2.96
+Failure percentage 0.0
+==========================================================
